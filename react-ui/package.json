@@ -1,0 +1,16 @@
+{
+  "name": "react-ui",
+  "type": "module",
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-draggable": "^4.4.6"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.4.1",
+    "vite": "^5.0.0"
+  },
+  "scripts": {
+    "start": "vite --host"
+  }
+}

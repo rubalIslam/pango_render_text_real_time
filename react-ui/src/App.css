@@ -1,0 +1,5 @@
+@font-face {
+  font-family: 'DejaVuSansBold';
+  src: url('/fonts/DejaVuSans-Bold.ttf') format('truetype');
+  font-weight: bold;
+}

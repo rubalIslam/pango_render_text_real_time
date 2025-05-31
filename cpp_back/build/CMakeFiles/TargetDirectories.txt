@@ -1,0 +1,3 @@
+/home/bedarul/ui_vid_editor/cpp_back/build/CMakeFiles/FfmpegTextRender.dir
+/home/bedarul/ui_vid_editor/cpp_back/build/CMakeFiles/edit_cache.dir
+/home/bedarul/ui_vid_editor/cpp_back/build/CMakeFiles/rebuild_cache.dir
